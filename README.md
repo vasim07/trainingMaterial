@@ -1,2 +1,2 @@
-# trainingMaterial
-Some training material on R - tidyverse.
+# Training Material
+I use these presentation when conducting trainings on data analysis using R tidyverse.
