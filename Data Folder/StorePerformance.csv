@@ -1,0 +1,702 @@
+Name,AnnualSales,BankName,BusinessType,YearOpened,Specialty,SquareFeet,NoOfBrands,NumberEmployees
+Next-Door Bike Store,800000,United Security,BM,1996,Mountain,21000,2,13
+Professional Sales and Service,800000,International Bank,BM,1991,Touring,18000,4,14
+Riders Company,800000,Primary Bank & Reserve,BM,1999,Road,21000,2,15
+The Bike Mechanics,800000,International Security,BM,1994,Mountain,18000,2,16
+Nationwide Supply,800000,Guardian Bank,BM,1987,Touring,21000,4,17
+Area Bike Accessories,300000,International Bank,BM,1982,Road,9000,1,8
+Bicycle Accessories and Kits,300000,Primary Bank & Reserve,BM,1990,Mountain,7000,1,9
+Clamps & Brackets Co.,800000,International Security,BM,1985,Mountain,17000,4,10
+Valley Bicycle Specialists,3000000,Primary Bank & Reserve,OS,1979,Mountain,72000,4,66
+New Bikes Company,1500000,International Security,OS,1974,Road,39000,4,40
+Vinyl and Plastic Goods Corporation,1500000,Primary Bank & Reserve,OS,1980,Mountain,41000,4,43
+Top of the Line Bikes,1500000,International Bank,OS,1986,Touring,40000,4,46
+Fun Toys and Bikes,300000,Primary Bank & Reserve,BM,1973,Touring,6000,2,2
+Great Bikes ,300000,International Security,BM,1981,Mountain,10000,4,3
+Metropolitan Sales and Rental,300000,Guardian Bank,BM,1976,Road,6000,1,4
+Irregulars Outlet,300000,Primary International,BM,1984,Mountain,7000,1,5
+Valley Toy Store,300000,Reserve Security,BM,1979,Mountain,9000,2,6
+Worthwhile Activity Store,300000,United Security,BM,1987,Mountain,8000,2,7
+Purchase Mart,1500000,United Security,OS,1992,Touring,38000,3,49
+Major Sport Suppliers,3000000,Reserve Security,OS,1998,Mountain,68000,3,52
+Family's Favorite Bike Shop,800000,Primary International,BM,1997,Mountain,21000,3,18
+Global Plaza,800000,Reserve Security,BM,1975,Mountain,19000,3,19
+Imported and Domestic Cycles,1000000,United Security,BM,2000,Road,24000,2,20
+Systematic Sales,3000000,Primary International,OS,1999,Touring,73000,4,55
+eCommerce Bikes,3000000,Guardian Bank,OS,1999,Mountain,69000,2,58
+Mountain Toy Store,800000,International Bank,BM,2000,Road,18000,4,17
+Retail Sales and Service,800000,Primary Bank & Reserve,BM,1994,Road,18000,2,14
+Designated Distributors,3000000,International Security,OS,1979,Road,72000,4,61
+Bold Bike Accessories,3000000,Primary Bank & Reserve,OS,1999,Mountain,72000,4,58
+Twin Cycles,800000,International Security,BM,1988,Touring,21000,1,11
+Tiny Bike Boutique,300000,International Bank,BM,1978,Road,6000,4,4
+Acclaimed Bicycle Company,3000000,International Bank,OS,1979,Touring,73000,3,61
+Serious Cycles,3000000,United Security,OS,1996,Mountain,71000,4,64
+Quality Bike Sales,3000000,Reserve Security,OS,1991,Touring,74000,3,67
+Novelty Bikes,3000000,Primary International,OS,1993,Touring,74000,4,70
+Distinctive Cycles Sales & Service,3000000,Primary Bank & Reserve,OS,1995,Mountain,75000,3,79
+Leading Bike Distributors,800000,Reserve Security,BS,1978,Road,18000,3,13
+Activity Center,1500000,Primary Bank & Reserve,BS,1971,Road,37000,3,37
+Brightwork Company,1500000,International Security,BS,1979,Mountain,36000,4,38
+Resale Services,800000,United Security,BM,1988,Mountain,21000,2,16
+The Gear Store,800000,International Bank,BM,1982,Mountain,21000,2,14
+Immense Manufacturing Company,3000000,Guardian Bank,OS,1998,Touring,76000,4,73
+Extended Bike Sales,3000000,International Security,OS,1990,Mountain,73000,4,76
+Pedaling Components,1500000,United Security,BS,1988,Touring,36000,4,35
+Workout Emporium,1500000,International Bank,BS,1976,Touring,39000,4,36
+Work and Play Association,800000,Primary Bank & Reserve,BM,1976,Road,22000,4,12
+Seaside Bike Works,800000,International Security,BM,1970,Touring,19000,3,10
+Nice Bikes,300000,Guardian Bank,BM,1975,Road,9000,4,8
+Remarkable Bike Store,800000,United Security,BS,1972,Road,17000,3,10
+Road-Way Mart,1000000,Reserve Security,BS,1998,Mountain,26000,3,27
+Small Cycle Store,1000000,United Security,BS,1971,Road,25000,3,28
+Blue-Ribbon Bike Company,300000,Primary International,BM,1970,Touring,9000,1,6
+Flawless Bike Shop,300000,Reserve Security,BM,1978,Road,10000,3,4
+Grand Bicycle Stores,300000,United Security,BM,1973,Mountain,10000,1,2
+Exertion Activities Club,1500000,Guardian Bank,BS,1984,Touring,38000,4,32
+Impromptu Trips,1500000,Primary International,BS,1978,Mountain,37000,4,33
+Margie's Travel,1500000,Reserve Security,BS,1972,Mountain,35000,2,34
+Kickstand Sellers,300000,International Bank,BM,1981,Mountain,8000,4,3
+Nearest Bike Store,300000,Primary Bank & Reserve,BM,1976,Touring,8000,4,4
+Fast Bike Works,1000000,Primary International,BS,1971,Touring,25000,4,28
+Gasless Cycle Shop,1000000,Reserve Security,BS,2001,Road,24000,3,29
+Lubricant and Grease Suppliers,1500000,United Security,BS,1996,Mountain,37000,4,30
+Teen Discount Store,800000,Reserve Security,BM,1994,Mountain,18000,3,16
+Transportation Options,800000,United Security,BM,1987,Mountain,20000,3,17
+Capital Riding Supplies,1500000,Primary Bank & Reserve,OS,1986,Mountain,39000,2,46
+Bike Boutique,1500000,International Bank,OS,1992,Road,41000,4,49
+Bikes Anyone?,1000000,International Security,BS,1996,Touring,27000,3,22
+Cross-town Parts Shop,800000,Guardian Bank,BS,1990,Road,23000,2,19
+Finer Cycle Shop,800000,Primary International,BS,1984,Mountain,20000,4,16
+Center Cycle Shop,1000000,Primary Bank & Reserve,BM,2000,Road,25000,4,20
+Bulk Discount Store,800000,International Security,BM,2000,Road,21000,3,17
+Country Parts Shop,800000,Guardian Bank,BM,1994,Road,21000,4,14
+Second Bike Shop,800000,Guardian Bank,BM,2000,Road,21000,4,19
+First-Rate Outlet,1000000,Primary International,BM,2000,Road,26000,3,20
+Juvenile Sports Equipment,800000,Reserve Security,BM,1994,Mountain,20000,2,18
+Another Bicycle Company,300000,Reserve Security,BM,1973,Touring,6000,1,2
+Fourth Bike Store,300000,United Security,BM,1981,Touring,9000,1,3
+Rodeway Bike Store,300000,International Bank,BM,1976,Mountain,7000,4,4
+Traction Tire Company,1500000,International Bank,BS,1990,Mountain,39000,2,31
+Unsurpassed Bikes,1500000,Primary Bank & Reserve,BS,1984,Touring,39000,3,32
+Field Trip Inc,1500000,International Security,BS,1978,Road,35000,4,33
+Tire Company,1500000,International Bank,BS,1983,Road,37000,2,45
+Uncompromising Quality Co,1500000,Primary Bank & Reserve,BS,1991,Touring,39000,4,46
+Metallic Paint and Overcoat Co,1000000,Primary Bank & Reserve,BS,1971,Road,26000,3,28
+Pro Sporting Goods,3000000,Primary International,OS,1972,Mountain,79000,4,90
+Sporting Goods and Bicycle Shop,3000000,Guardian Bank,OS,1977,Road,78000,3,91
+Odometers and Accessories Company,3000000,International Security,OS,1987,Touring,76000,4,92
+Scratch-Resistant Finishes Company,800000,Guardian Bank,BS,1984,Mountain,21000,4,16
+Topnotch Bikes,800000,Primary International,BS,1978,Mountain,22000,2,13
+"Unicycles, Bicycles, and Tricycles",800000,Reserve Security,BS,1972,Touring,17000,4,10
+Safe Cycles Shop,3000000,International Security,OS,1998,Mountain,72000,4,73
+Number 1 Supply,3000000,Primary Bank & Reserve,OS,1990,Road,75000,4,76
+Industrial Supplies,3000000,International Bank,OS,1995,Touring,73000,3,79
+Golf and Cycle Store,3000000,Guardian Bank,OS,1978,Mountain,75000,2,86
+Front Runner Bikes,3000000,International Security,OS,1983,Touring,77000,4,87
+Favorite Toy Distributor,3000000,Primary Bank & Reserve,OS,1975,Touring,77000,4,88
+World Bike Discount Store,1500000,Guardian Bank,BS,1979,Road,39000,4,38
+Global Sporting Goods,1500000,Primary International,BS,1974,Road,36000,3,39
+Historic Bicycle Sales,1500000,Reserve Security,BS,1982,Mountain,38000,2,40
+Commuter Bicycle Store,800000,Reserve Security,BM,1987,Touring,22000,4,17
+Coalition Bike Company,800000,United Security,BM,1997,Mountain,23000,2,18
+Travel Systems,800000,International Bank,BM,1975,Road,21000,4,19
+Grease and Oil Products Company,1500000,Primary Bank & Reserve,BS,1979,Road,36000,4,38
+Moderately-Priced Bikes Store,1500000,International Security,BS,1974,Mountain,39000,2,39
+Toy Manufacturing Inc,1500000,Guardian Bank,BS,1977,Road,40000,4,41
+Eighty Toy Stores,1500000,Primary International,BS,1985,Road,37000,4,42
+Economy Bikes Company,1500000,Reserve Security,BS,1980,Mountain,41000,4,43
+Third Bike Store,1500000,United Security,BS,1988,Road,37000,4,44
+Atypical Bike Company,1000000,Reserve Security,BM,2000,Road,25000,3,20
+Bikes for Two,800000,United Security,BM,1994,Mountain,22000,3,18
+Metal Processing Company,1500000,International Security,BS,1986,Road,39000,4,47
+Widget Bicycle Specialists,1500000,Guardian Bank,BS,1994,Road,38000,3,48
+Initial Bike Company,800000,International Security,BM,1996,Mountain,19000,4,13
+Latest Sports Equipment,800000,Guardian Bank,BM,1991,Mountain,18000,4,14
+Modern Bike Store,800000,Primary International,BM,1999,Road,21000,4,15
+Raw Materials Inc,3000000,Primary Bank & Reserve,OS,1998,Mountain,74000,4,73
+Lots of Bikes Storehouse,3000000,International Bank,OS,1990,Mountain,73000,2,76
+Futuristic Bikes,3000000,United Security,OS,1995,Mountain,77000,2,79
+Parcel Express Delivery Service,1500000,United Security,BS,1979,Road,36000,4,38
+Outdoor Distributors,1500000,International Bank,BS,1974,Mountain,36000,3,39
+North Bike Company,1500000,Primary Bank & Reserve,BS,1982,Road,37000,4,40
+Prosperous Tours,3000000,Guardian Bank,OS,1999,Road,79000,4,99
+Nonskid Tire Company,3000000,International Security,OS,1999,Mountain,80000,3,100
+Amalgamated Parts Shop,3000000,Primary Bank & Reserve,OS,1999,Touring,77000,4,99
+Metro Bike Works,3000000,International Bank,OS,1999,Mountain,77000,4,100
+Best o' Bikes,800000,Primary International,BS,1972,Touring,19000,3,10
+Painters Bicycle Specialists,1000000,Guardian Bank,BS,1998,Road,24000,3,27
+Client Discount Store,1000000,Guardian Bank,BM,2000,Mountain,24000,2,20
+Eastside Sporting Goods,800000,Primary International,BM,2000,Road,19000,1,17
+Helmets and Cycles,800000,Reserve Security,BM,1994,Touring,21000,4,14
+Requisite Part Supply,1500000,Guardian Bank,BS,1988,Road,39000,3,35
+Racks and Security Systems,1500000,Primary International,BS,1976,Touring,39000,3,36
+Mechanical Products Ltd.,1500000,Reserve Security,BS,1971,Road,38000,4,37
+Commendable Bikes,1500000,Guardian Bank,BS,1974,Road,37000,4,39
+Online Bike Sellers,1500000,Primary International,BS,1982,Mountain,39000,2,40
+Custom Accessories Company,3000000,Guardian Bank,OS,1998,Road,79000,4,98
+Unusual Bicycle Company,3000000,International Security,OS,1999,Touring,78000,4,99
+Courteous Bicycle Specialists,300000,International Security,BM,1982,Touring,10000,2,8
+Hobby Store,300000,Guardian Bank,BM,1976,Mountain,6000,2,5
+Professional Cycle Store,300000,Primary International,BM,1970,Mountain,10000,2,2
+Bike Universe,1000000,United Security,BS,1971,Mountain,28000,4,28
+Fifth Bike Store,1000000,International Bank,BS,2001,Road,26000,4,25
+Independent Outlet,1000000,Primary Bank & Reserve,BS,1996,Road,25000,3,22
+Rambling Tours,800000,International Security,BS,1990,Touring,19000,3,19
+Farthest Bike Store,3000000,United Security,OS,1987,Touring,74000,4,80
+Excellent Bikes,3000000,Reserve Security,OS,1992,Touring,75000,2,81
+Curbside Universe,3000000,Primary International,OS,1984,Road,73000,4,82
+Alternative Vehicles,1500000,Primary Bank & Reserve,BS,1983,Road,41000,4,45
+Channel Outlet,1500000,International Security,BS,1991,Touring,40000,4,46
+Full Sports Supply,1500000,Guardian Bank,BS,1986,Mountain,38000,4,47
+Retail Mall,3000000,Primary International,OS,1977,Road,79000,4,91
+Racing Store,3000000,Guardian Bank,OS,1987,Road,78000,4,92
+Metro Metals Co.,3000000,International Security,OS,1974,Touring,77000,4,93
+Sheet Metal Manufacturing,800000,International Security,BM,1997,Road,19000,3,17
+Thorough Parts and Repair Services,800000,Guardian Bank,BM,1975,Road,22000,2,18
+Uttermost Bike Shop,800000,Primary International,BM,2000,Road,20000,4,19
+Mechanical Sports Center,1500000,International Security,BS,1995,Road,40000,3,40
+Speedometer Sales,1500000,Guardian Bank,BS,1995,Road,39000,3,37
+Two-Wheeled Transit Company,1500000,Primary International,BS,1983,Mountain,38000,4,34
+Mountain Emporium,1500000,Reserve Security,BS,1998,Mountain,37000,4,31
+Metro Cycle Shop,3000000,Guardian Bank,OS,1989,Mountain,74000,3,83
+Outdoor Sporting Goods,3000000,International Security,OS,1981,Touring,74000,3,84
+Tread Industries,3000000,Primary Bank & Reserve,OS,1986,Mountain,77000,4,85
+Petroleum Products Distributors,3000000,International Bank,OS,1978,Touring,78000,4,86
+Tandem Bicycle Store,1500000,International Security,OS,1986,Mountain,37000,4,46
+Bikes and Motorbikes,1500000,Primary Bank & Reserve,OS,1992,Road,40000,2,49
+Budget Toy Store,3000000,International Bank,OS,1998,Mountain,71000,4,52
+Camping and Sports Store,3000000,Reserve Security,OS,1987,Touring,77000,4,80
+Ace Bicycle Supply,3000000,Primary International,OS,1992,Mountain,73000,3,81
+Rural Department Store,1500000,United Security,BS,1990,Touring,35000,3,31
+Sports Commodities,1500000,International Bank,BS,1984,Mountain,37000,2,32
+Riverside Company,1500000,Primary Bank & Reserve,BS,1978,Road,38000,4,33
+Bicycle Exporters,1500000,International Security,BS,1972,Touring,39000,2,34
+Responsible Bike Dealers,1500000,International Security,BS,1989,Mountain,40000,2,49
+Western Bike Supplies,1500000,Primary Bank & Reserve,BS,1994,Road,38000,3,48
+Advanced Bike Components,1500000,Primary International,OS,1974,Road,38000,3,40
+Aerobic Exercise Company,1500000,Guardian Bank,OS,1980,Road,40000,3,43
+Rural Sporting Goods,800000,United Security,BM,1985,Road,20000,4,10
+Corner Bicycle Supply,800000,International Bank,BM,1993,Road,17000,4,11
+Distance Bikes,800000,Primary Bank & Reserve,BM,1988,Road,20000,2,12
+Westside Plaza,3000000,United Security,OS,1989,Touring,74000,3,83
+Ultimate Bike Shop,3000000,Reserve Security,OS,1981,Mountain,78000,4,84
+Outstanding Cycles,3000000,Primary International,OS,1986,Touring,78000,4,85
+Vigorous Sports Store,3000000,Guardian Bank,OS,1984,Road,73000,4,82
+Sports Merchandise,3000000,International Security,OS,1989,Touring,73000,4,83
+Fitness Toy Store,3000000,Primary Bank & Reserve,OS,1981,Road,75000,3,84
+Casual Bicycle Store,800000,Guardian Bank,BM,1985,Mountain,18000,2,10
+Fitness Discount Store,800000,Primary International,BM,1993,Touring,19000,1,11
+General Cycle Storehouse,800000,Reserve Security,BM,1988,Mountain,20000,4,12
+Fitness Cycling,800000,International Bank,BM,1988,Mountain,18000,2,16
+Good Bike Shop,800000,Primary Bank & Reserve,BM,1982,Road,19000,4,14
+Imaginary Toys,800000,International Security,BM,1976,Touring,20000,4,12
+Inexpensive Parts Shop,1500000,Guardian Bank,BS,1972,Mountain,35000,4,34
+Nuts and Bolts Mfg.,1500000,Primary International,BS,1988,Mountain,37000,4,35
+Principal Bicycle Supply,1500000,Reserve Security,BS,1976,Road,39000,4,36
+Thrilling Bike Tours,1500000,United Security,BS,1971,Touring,37000,4,37
+This Area Sporting Goods,1500000,International Bank,BS,1979,Mountain,39000,2,38
+Full-Service Bike Store,1500000,Primary Bank & Reserve,BS,1974,Mountain,38000,3,39
+Plastic Products Manufacturers,1500000,International Security,BS,1982,Touring,37000,3,40
+Kids and Adults Cycle Shop,3000000,Primary Bank & Reserve,OS,1974,Mountain,75000,2,93
+Grand Discount Store,3000000,International Bank,OS,1974,Mountain,75000,4,94
+Genuine Bike Shop,3000000,United Security,OS,1980,Road,76000,4,95
+Extreme Riding Supplies,3000000,Reserve Security,OS,1986,Touring,79000,3,96
+Bike Rims Company,3000000,Primary International,OS,1992,Road,80000,4,97
+Fleet Bikes,1500000,Primary International,BS,1989,Mountain,40000,3,49
+Local Hardware Factory,1500000,Reserve Security,BS,1997,Road,41000,3,46
+Only Bikes and Accessories,1500000,United Security,BS,1992,Mountain,40000,4,43
+Rental Gallery,1500000,International Bank,BS,1995,Mountain,37000,4,40
+South Bike Company,1500000,Primary Bank & Reserve,BS,1995,Touring,40000,4,37
+Wonderful Bikes Inc.,1500000,International Security,BS,1983,Road,37000,3,34
+Another Sporting Goods Company,1500000,Guardian Bank,BS,1998,Road,37000,4,31
+Discount Bicycle Specialists,1000000,Primary International,BS,1971,Road,28000,4,28
+Famous Bike Sales and Service,1000000,Reserve Security,BS,2001,Road,26000,4,25
+First Supplies,1000000,United Security,BS,1996,Touring,26000,4,22
+Machines & Cycles Store,800000,International Bank,BS,1990,Touring,22000,2,19
+Pedals Warehouse,800000,Primary Bank & Reserve,BS,1984,Road,20000,2,16
+Two Wheels Cycle Store,800000,International Security,BS,1978,Road,22000,2,13
+Westside Cycle Store,800000,Guardian Bank,BS,1972,Road,20000,4,10
+Wholesale Bikes,1000000,International Security,BS,1998,Road,27000,3,27
+Very Best Sports Supply,1000000,Guardian Bank,BS,1971,Road,28000,4,28
+Urban Sports Emporium,1000000,Primary International,BS,2001,Road,24000,4,29
+Superlative Bikes,1500000,Reserve Security,BS,1996,Mountain,36000,4,30
+Primary Cycle Shop,1500000,Reserve Security,BS,1977,Road,37000,4,41
+Sixth Bike Store,1500000,United Security,BS,1985,Mountain,37000,2,42
+Touring Services,1500000,International Bank,BS,1980,Road,38000,4,43
+Vehicle Shop,1500000,Primary Bank & Reserve,BS,1988,Road,38000,2,44
+First Department Stores,1500000,International Security,BS,1983,Mountain,38000,3,45
+Grand Sport Boutique,1500000,Guardian Bank,BS,1991,Road,39000,4,46
+Major Equipment Co,1500000,Primary International,BS,1986,Touring,37000,2,47
+Custom Sales and Service,1500000,Reserve Security,BS,1994,Road,39000,4,48
+Elemental Sporting Goods,1500000,United Security,BS,1989,Mountain,41000,4,49
+Distinctive Store,1500000,International Bank,BS,1997,Road,37000,4,46
+Grand Cycle Store,1500000,Primary Bank & Reserve,BS,1992,Road,41000,2,43
+Nearby Bike Mall,3000000,United Security,OS,1983,Road,74000,2,87
+Handy Bike Services,3000000,Reserve Security,OS,1975,Mountain,76000,4,88
+Friendly Bike Shop,3000000,Primary International,OS,1980,Road,75000,2,89
+Fashionable Bikes and Accessories,3000000,Guardian Bank,OS,1972,Mountain,76000,3,90
+Extreme Toy Store,3000000,International Security,OS,1977,Mountain,75000,2,91
+Citywide Service and Repair,3000000,Primary Bank & Reserve,OS,1987,Road,79000,3,92
+Best Cycle Store,3000000,International Bank,OS,1974,Touring,78000,4,93
+Professional Sporting Goods,3000000,United Security,OS,1974,Touring,78000,2,94
+Rugged Bikes,3000000,Reserve Security,OS,1980,Touring,77000,2,95
+Principal Bike Company,3000000,Primary International,OS,1986,Road,79000,3,96
+One-Piece Handle Bars,3000000,Guardian Bank,OS,1992,Mountain,80000,3,97
+Finer Riding Supplies,3000000,International Security,OS,1998,Road,78000,4,98
+Neighborhood Store,3000000,Primary International,OS,1983,Road,77000,2,87
+Online Bike Catalog,3000000,Guardian Bank,OS,1975,Touring,74000,3,88
+Outdoor Equipment Store,3000000,International Security,OS,1980,Road,76000,4,89
+Paint Supply,3000000,Primary Bank & Reserve,OS,1972,Mountain,78000,4,90
+Preferred Bikes,3000000,International Bank,OS,1977,Road,77000,4,91
+Rally Day Mall,3000000,United Security,OS,1987,Road,75000,3,92
+Rewarding Activities Company,3000000,Reserve Security,OS,1974,Road,76000,4,93
+Rich Department Store,3000000,Primary International,OS,1974,Touring,76000,2,94
+Sales and Supply Company,3000000,Guardian Bank,OS,1980,Road,75000,2,95
+Stationary Bikes and Stands,3000000,International Security,OS,1986,Road,76000,4,96
+Successful Sales Company,1500000,Guardian Bank,BS,1997,Road,38000,3,46
+Downtown Hotel,3000000,International Bank,OS,1986,Mountain,74000,4,85
+Certified Sports Supply,3000000,United Security,OS,1978,Mountain,78000,4,86
+Registered Cycle Store,3000000,Reserve Security,OS,1983,Mountain,77000,3,87
+Rampart Amusement Company,3000000,Primary International,OS,1975,Touring,75000,3,88
+Sundry Sporting Goods,300000,Primary Bank & Reserve,BM,1984,Road,7000,4,5
+Excellent Riding Supplies,300000,International Security,BM,1979,Road,9000,3,6
+Farthermost Bike Shop,300000,Guardian Bank,BM,1987,Road,8000,3,7
+Suburban Cycle Shop,300000,Primary International,BM,1982,Mountain,10000,3,8
+Weekend Tours,300000,Reserve Security,BM,1990,Road,9000,1,9
+Racing Bike Outlet,3000000,United Security,OS,1998,Road,72000,2,52
+Utilitarian Sporting Goods,3000000,Reserve Security,OS,1999,Touring,72000,3,55
+Bike Goods ,3000000,Primary International,OS,1999,Road,73000,4,58
+Vigorous Exercise Company,3000000,Guardian Bank,OS,1979,Mountain,72000,2,61
+Showcase for Cycles,3000000,International Security,OS,1996,Road,71000,2,64
+Lease-a-Bike Shop,3000000,Primary Bank & Reserve,OS,1991,Road,71000,3,67
+Functional Store South,3000000,International Bank,OS,1993,Mountain,71000,2,70
+Active Cycling,3000000,United Security,OS,1998,Road,73000,4,73
+Stock Parts and Supplies,3000000,Reserve Security,OS,1990,Touring,76000,2,76
+Roadway Supplies,3000000,Primary International,OS,1995,Road,73000,4,79
+Sensational Discount Store,3000000,Guardian Bank,OS,1987,Road,73000,2,80
+Future Bikes,3000000,Guardian Bank,OS,1992,Road,74000,3,81
+Super Sports Store,3000000,Primary Bank & Reserve,OS,1999,Road,78000,2,100
+Satin Finish Company,3000000,International Bank,OS,1979,Mountain,74000,2,66
+Regional Manufacturing,1500000,Primary Bank & Reserve,OS,1974,Mountain,38000,4,40
+Original Bicycle Supply Company,1500000,International Bank,OS,1980,Mountain,38000,4,43
+First Center,1500000,United Security,OS,1986,Mountain,39000,2,46
+Action Bicycle Specialists,1500000,Reserve Security,OS,1992,Touring,40000,2,49
+Roadway Bike Emporium,3000000,Primary International,OS,1998,Touring,68000,3,52
+Sleek Bikes ,3000000,Guardian Bank,OS,1999,Touring,70000,3,55
+Retail Sporting Equipment,3000000,International Security,OS,1999,Mountain,72000,4,58
+Price-Cutter Discount Bikes,3000000,Primary Bank & Reserve,OS,1979,Road,70000,4,61
+Brand New Bikes,3000000,International Bank,OS,1996,Road,73000,4,64
+Central Bicycle Specialists,3000000,United Security,OS,1991,Touring,71000,2,67
+Vast Bike Sales and Rental,3000000,Reserve Security,OS,1993,Mountain,73000,4,70
+Summer Sports Place,3000000,Primary International,OS,1998,Mountain,73000,3,73
+Real Sporting Goods,3000000,Guardian Bank,OS,1990,Mountain,72000,3,76
+Versatile Sporting Goods Company,3000000,Primary Bank & Reserve,OS,1996,Road,74000,2,64
+Bicycle Outfitters,3000000,International Bank,OS,1991,Road,72000,3,67
+The Bike Shop,3000000,United Security,OS,1993,Mountain,73000,3,70
+Safe Toys,3000000,Reserve Security,OS,1998,Mountain,74000,2,73
+Qualified Sales and Repair Services,3000000,Primary International,OS,1990,Road,75000,4,76
+Our Sporting Goods Store,3000000,Guardian Bank,OS,1995,Road,76000,4,79
+Lustrous Paints and Components,3000000,International Security,OS,1987,Road,77000,4,80
+Expert Sports Store,3000000,Primary Bank & Reserve,OS,1992,Mountain,77000,3,81
+Coho Sports,3000000,International Bank,OS,1984,Mountain,75000,3,82
+Jumbo Bikes,1500000,United Security,BS,1977,Touring,39000,2,41
+Quick Delivery Service,1500000,International Bank,BS,1985,Mountain,37000,4,42
+Tough and Reliable Parts,1500000,Primary Bank & Reserve,BS,1980,Road,40000,3,43
+Basic Sports Equipment,1500000,International Security,BS,1988,Mountain,38000,3,44
+Cash & Carry Bikes,1500000,Guardian Bank,BS,1983,Mountain,39000,2,45
+Convenient Bike Shop,1500000,Primary International,BS,1991,Road,38000,3,46
+Fitness Bike Accessories,1500000,Reserve Security,BS,1986,Touring,39000,3,47
+General Bike Corporation,1500000,United Security,BS,1994,Road,38000,4,48
+Quitting Business Distributors,1500000,International Bank,BS,1989,Touring,40000,2,49
+Retail Cycle Shop,1500000,Primary Bank & Reserve,BS,1997,Mountain,38000,3,46
+Social Activities Club,1500000,International Security,BS,1992,Road,39000,4,43
+Blue Bicycle Company,1500000,Guardian Bank,BS,1995,Road,36000,4,40
+Expert Cycle Store,1500000,Primary International,BS,1995,Touring,38000,4,37
+General Riding Supplies,1500000,Reserve Security,BS,1983,Mountain,36000,3,34
+Parts Shop,1500000,United Security,BS,1998,Road,38000,3,31
+Riding Excursions,1000000,International Bank,BS,1971,Road,27000,4,28
+Unique Bikes,1000000,Primary Bank & Reserve,BS,2001,Mountain,27000,3,25
+Rural Cycle Emporium,800000,Primary International,BM,1988,Mountain,21000,4,11
+Associated Bikes,300000,Reserve Security,BM,1982,Mountain,7000,3,8
+Modular Cycle Systems,300000,United Security,BM,1976,Road,6000,2,5
+A Bike Store,300000,International Bank,BM,1970,Road,7000,1,2
+Journey Sporting Goods,800000,Primary Bank & Reserve,BM,1996,Mountain,21000,3,13
+Two Bike Shops,800000,International Security,BM,1991,Road,20000,3,14
+Cycles Wholesaler & Mfg.,800000,Guardian Bank,BM,1999,Touring,21000,4,15
+Wheels Inc.,800000,Primary International,BM,1994,Road,19000,4,16
+Number One Bike Co.,1500000,Guardian Bank,BS,1982,Road,40000,4,40
+Racing Supply Distributors,1500000,Primary International,BS,1977,Touring,38000,3,41
+Standard Bikes,1500000,Reserve Security,BS,1985,Mountain,38000,4,42
+The Bicycle Accessories Company,1500000,United Security,BS,1980,Road,37000,4,43
+Active Systems,1500000,International Bank,BS,1988,Road,39000,4,44
+Futuristic Sport Distributors,3000000,Primary Bank & Reserve,OS,1974,Road,78000,3,94
+Finer Sales and Service,3000000,International Bank,OS,1980,Road,77000,4,95
+Big-Time Bike Store,3000000,United Security,OS,1986,Road,80000,4,96
+The Showroom,3000000,Reserve Security,OS,1992,Road,79000,4,97
+Spa and Exercise Outfitters,3000000,Primary International,OS,1998,Mountain,79000,4,98
+Year-Round Sports,3000000,United Security,OS,1979,Mountain,75000,4,66
+The New Bike Store,1500000,International Bank,OS,1974,Road,37000,4,40
+Resident Cycle Shop,1500000,United Security,OS,1980,Mountain,38000,4,43
+Primary Bike Distributors,1500000,Reserve Security,OS,1986,Road,39000,4,46
+Major Bicycle Store,1500000,Primary International,OS,1992,Touring,41000,4,49
+Leather and Vinyl Manufacturing,3000000,Guardian Bank,OS,1998,Road,68000,2,52
+Genial Bike Associates,3000000,International Security,OS,1999,Mountain,70000,4,55
+Commercial Sporting Goods,3000000,Reserve Security,OS,1979,Mountain,74000,3,61
+Wholesale Parts,3000000,Primary International,OS,1996,Road,70000,4,64
+Steel Inc.,3000000,Guardian Bank,OS,1991,Road,74000,4,67
+Riding Cycles,3000000,International Security,OS,1993,Road,74000,3,70
+Metro Manufacturing,1500000,International Security,BS,1977,Mountain,36000,4,41
+Manufacturers Inc,1500000,Guardian Bank,BS,1985,Road,39000,3,42
+Locks Company,1500000,Primary International,BS,1980,Touring,40000,4,43
+Latest Accessories Sales,1500000,Reserve Security,BS,1988,Road,38000,4,44
+Incomparable Bicycle Store,1500000,United Security,BS,1983,Touring,41000,2,45
+Hometown Riding Supplies,1500000,International Bank,BS,1991,Mountain,38000,4,46
+Greater Bike Store,1500000,Primary Bank & Reserve,BS,1986,Mountain,39000,3,47
+Games and Sport Supply Company,1500000,International Security,BS,1994,Touring,42000,4,48
+Distant Inn,1500000,Guardian Bank,BS,1989,Road,38000,4,49
+Finer Mart,1500000,Primary International,BS,1997,Touring,38000,3,46
+Economic Parts Supply,1500000,Reserve Security,BS,1992,Road,40000,4,43
+Precision Gears Inc.,1500000,United Security,BS,1995,Road,38000,3,40
+Cross-Country Riding Supplies,1500000,International Bank,BS,1995,Mountain,36000,3,37
+Stylish Department Stores,1500000,Primary Bank & Reserve,BS,1983,Road,39000,3,34
+Bike World,1500000,International Security,BS,1998,Mountain,35000,4,31
+Central Discount Store,1000000,Guardian Bank,BS,1971,Mountain,25000,4,28
+Trusted Catalog Store,1000000,Primary International,BS,2001,Mountain,25000,4,25
+Bicycle Warehouse Inc.,1000000,Reserve Security,BS,1996,Mountain,26000,4,22
+Sharp Bikes,800000,United Security,BS,1990,Mountain,19000,1,19
+Exemplary Cycles,800000,International Bank,BS,1984,Touring,20000,1,16
+Metropolitan Sports Supply,800000,Primary Bank & Reserve,BS,1978,Road,21000,4,13
+Progressive Sports,800000,International Security,BS,1972,Mountain,18000,3,10
+Underglaze and Finish Company,800000,Reserve Security,BM,1993,Road,18000,1,11
+Brakes and Gears,800000,United Security,BM,1988,Mountain,18000,1,12
+The Accessories Store,800000,International Bank,BM,1996,Road,18000,2,13
+Mountain Bike Store,800000,Primary Bank & Reserve,BM,1991,Touring,22000,4,14
+Bike Part Wholesalers,800000,International Security,BM,1999,Touring,21000,3,15
+Family Cycle Store,800000,Guardian Bank,BM,1994,Mountain,18000,4,16
+Popular Bike Lines,800000,Primary International,BM,1987,Touring,20000,4,17
+Superb Sales and Repair,800000,Reserve Security,BM,1997,Road,19000,3,18
+Better Bike Shop,800000,United Security,BM,1975,Mountain,19000,4,19
+Countryside Company,1000000,International Bank,BM,2000,Mountain,26000,2,20
+First Bike Store,800000,Primary Bank & Reserve,BM,2000,Road,21000,3,17
+Traditional Department Stores,800000,International Security,BM,1994,Mountain,18000,2,14
+Eastside Cycle Shop,800000,Guardian Bank,BM,1988,Touring,21000,2,11
+General Department Stores,300000,Primary International,BM,1982,Mountain,11000,3,8
+Mass Market Bikes,300000,Reserve Security,BM,1976,Touring,7000,1,5
+Operational Manufacturing,300000,United Security,BM,1970,Mountain,8000,3,2
+Online Bike Warehouse,800000,Primary International,BM,1997,Road,21000,4,17
+Retread Tire Company,800000,Reserve Security,BM,1975,Road,20000,2,18
+Small Bike Shop,800000,United Security,BM,2000,Mountain,23000,4,19
+Superior Hardware Distributors,1000000,International Bank,BM,2000,Mountain,25000,2,20
+Fitness Sport Boutique,800000,Primary Bank & Reserve,BM,1994,Mountain,23000,2,18
+Producer Goods Clearinghouse,800000,International Security,BM,1988,Road,22000,4,16
+Recreation Systems,800000,Guardian Bank,BM,1982,Road,20000,4,14
+Rustic Bike Store,800000,Primary International,BM,1976,Touring,19000,4,12
+Eastside Parts Shop,800000,Reserve Security,BM,1970,Touring,17000,1,10
+Exchange Parts Inc.,300000,United Security,BM,1975,Touring,9000,4,8
+First Cycle Store,300000,International Bank,BM,1970,Road,9000,1,6
+Running and Cycling Gear,300000,Primary Bank & Reserve,BM,1978,Touring,7000,3,4
+Seventh Bike Store,300000,International Security,BM,1973,Road,10000,1,2
+Fast Services,300000,Guardian Bank,BM,1981,Road,9000,3,3
+General Associates,300000,Primary International,BM,1976,Road,9000,2,4
+Good Toys,300000,Reserve Security,BM,1984,Road,9000,3,5
+Little Bicycle Supply Shop,300000,United Security,BM,1979,Road,11000,4,6
+Retail Toy Store,300000,International Bank,BM,1987,Road,8000,4,7
+Strenuous Exercise Shop,300000,Primary Bank & Reserve,BM,1982,Mountain,7000,4,8
+All Seasons Sports Supply,300000,International Security,BM,1990,Touring,10000,1,9
+Leisure Clearing House,800000,Guardian Bank,BM,1970,Road,20000,2,10
+Outdoor Toy Store,300000,Primary International,BM,1975,Mountain,8000,3,8
+The Commissary,300000,Reserve Security,BM,1970,Road,9000,3,6
+Affordable Sports Equipment,300000,United Security,BM,1978,Road,8000,1,4
+Local Sales and Rental,300000,International Bank,BM,1973,Touring,10000,2,2
+Economy Center,1500000,International Bank,BS,1998,Mountain,35000,4,31
+Community Department Stores,1500000,United Security,BS,1983,Mountain,36000,3,34
+Area Sheet Metal Supply,1500000,Reserve Security,BS,1995,Road,36000,4,37
+Synthetic Materials Manufacturing,1500000,Primary International,BS,1995,Road,39000,2,40
+Rural Sales and Service,1500000,Guardian Bank,BS,1992,Road,37000,3,43
+Tubeless Tire Company,3000000,International Bank,OS,1980,Touring,75000,4,89
+Tires and Tubes,3000000,United Security,OS,1972,Mountain,79000,4,90
+Hardware Components,3000000,Reserve Security,OS,1977,Mountain,75000,2,91
+Retail Sporting Goods,3000000,Primary International,OS,1987,Road,78000,4,92
+Efficient Cycling,3000000,Guardian Bank,OS,1974,Touring,77000,3,93
+General Industries,1500000,Primary International,BS,1994,Road,42000,4,48
+Highway Bike Shop,1500000,Reserve Security,BS,1989,Road,40000,2,49
+Rental Bikes,1500000,United Security,BS,1997,Road,40000,4,46
+Roving Sports,1500000,International Bank,BS,1992,Road,41000,3,43
+Express Bike Services,1500000,Primary Bank & Reserve,BS,1995,Mountain,38000,4,40
+Major Amusement Company,1500000,International Security,BS,1995,Mountain,36000,4,37
+Retail Discount Store,1500000,Guardian Bank,BS,1983,Road,37000,3,34
+Vale Riding Supplies,1500000,Primary International,BS,1998,Touring,37000,4,31
+A Great Bicycle Company,1000000,Reserve Security,BS,1971,Road,28000,3,28
+Certified Bicycle Supply,1000000,United Security,BS,2001,Road,24000,2,25
+Exceptional Cycle Services,1000000,International Bank,BS,1996,Touring,27000,4,22
+Instant Cycle Store,800000,Primary Bank & Reserve,BS,1990,Road,23000,4,19
+Leisure Activities,800000,International Security,BS,1984,Mountain,22000,4,16
+Paints and Solvents Company,800000,Guardian Bank,BS,1978,Touring,18000,3,13
+West Wind Distributors,1000000,International Bank,BS,2001,Touring,27000,3,29
+Bikes for Kids and Adults,1500000,Primary Bank & Reserve,BS,1996,Mountain,36000,4,30
+Consolidated Sales,1500000,International Security,BS,1990,Mountain,38000,3,31
+Home Town Bike Store,800000,United Security,BM,1988,Touring,20000,3,11
+Optimal Bikes,300000,International Bank,BM,1982,Road,10000,2,8
+Sample Bike Store,300000,Primary Bank & Reserve,BM,1976,Road,7000,1,5
+Extras Sporting Goods,300000,International Security,BM,1970,Road,7000,3,2
+Sure & Reliable Sporting Goods,800000,International Bank,BM,1997,Road,22000,4,17
+Eleventh Bike Store,800000,Primary Bank & Reserve,BM,1975,Road,22000,4,18
+Enterprise Center,800000,International Security,BM,2000,Touring,23000,4,19
+Purple Bicycle Company,1000000,Guardian Bank,BM,2000,Road,27000,2,20
+New and Used Bicycles,800000,Primary International,BM,1994,Road,20000,1,18
+Separate Parts Corporation,800000,Reserve Security,BM,1988,Road,21000,3,16
+Basic Bike Company,800000,United Security,BM,1982,Road,20000,2,14
+"Fabrikam Inc., West",800000,International Bank,BM,1976,Mountain,18000,4,12
+Mechanical Brake Manufacturers,800000,Primary Bank & Reserve,BM,1970,Touring,21000,3,10
+Non-Slip Pedal Company,300000,International Security,BM,1975,Road,11000,1,8
+Variety Bike Outlet,300000,Guardian Bank,BM,1970,Mountain,9000,1,6
+Weekend Bike Tours,300000,Primary International,BM,1978,Road,7000,1,4
+"Fabrikam Inc., East",800000,Guardian Bank,BM,1993,Road,20000,1,11
+General Supplies,800000,Primary International,BM,1988,Road,21000,3,12
+Noiseless Gear Company,800000,Reserve Security,BM,1996,Mountain,20000,4,13
+Racing Toys,800000,United Security,BM,1991,Road,18000,2,14
+Capable Sales and Service,300000,Primary Bank & Reserve,BM,1981,Mountain,10000,4,3
+Little Sports Center,300000,International Security,BM,1976,Touring,10000,4,4
+Pretty Bikes and Toys,300000,Guardian Bank,BM,1984,Road,6000,3,5
+Road Way Sales and Rental,300000,Primary International,BM,1979,Mountain,10000,3,6
+Sturdy Toys,300000,Reserve Security,BM,1987,Mountain,9000,2,7
+Beneficial Exercises and Activities,300000,United Security,BM,1982,Road,9000,2,8
+Fad Outlet,300000,International Bank,BM,1990,Road,8000,1,9
+Commerce Bicycle Specialists,800000,Primary Bank & Reserve,BM,1985,Mountain,19000,4,10
+Township Inn,800000,International Security,BM,1993,Road,18000,4,11
+Acceptable Sales & Service,800000,Guardian Bank,BM,1988,Road,21000,1,12
+Brown Bicycle Company,800000,Primary International,BM,1996,Road,19000,2,13
+District Mall,800000,Reserve Security,BM,1991,Road,19000,4,14
+Fitness Supplies,800000,United Security,BM,1999,Touring,19000,4,15
+Mail Market,800000,International Bank,BM,1994,Touring,19000,1,16
+Spare Parts Co.,800000,Primary Bank & Reserve,BM,1987,Mountain,19000,4,17
+Twelfth Bike Store,800000,International Security,BM,1997,Mountain,21000,4,18
+Consolidated Messenger,300000,Guardian Bank,BM,1982,Road,7000,3,8
+Daring Rides,300000,Primary International,BM,1976,Road,10000,4,5
+Field Trip Store,300000,Reserve Security,BM,1970,Mountain,8000,3,2
+Finish and Sealant Products,800000,Guardian Bank,BM,1997,Road,22000,1,17
+Finer Parts Shop,800000,Primary International,BM,1975,Mountain,19000,2,18
+Glossy Bikes,800000,Reserve Security,BM,2000,Touring,22000,2,19
+Next Door Cycles,1000000,United Security,BM,2000,Touring,27000,3,20
+Up-To-Date Sports,1000000,International Security,BM,2000,Mountain,26000,4,20
+Mountain Bike Center,800000,Guardian Bank,BM,1994,Road,20000,4,18
+Specialty Sports Store,800000,Primary International,BM,1988,Mountain,20000,1,16
+Scooters and Bikes Store,800000,Reserve Security,BM,1982,Road,21000,2,14
+Closest Bicycle Store,800000,United Security,BM,1976,Mountain,22000,3,12
+Roadway Bicycle Supply,800000,International Bank,BM,1970,Touring,19000,4,10
+Refined Department Stores,300000,Primary Bank & Reserve,BM,1975,Road,7000,3,8
+Reasonable Bicycle Sales,300000,International Security,BM,1970,Road,10000,3,6
+Out-of-the-Way Hotels,300000,Guardian Bank,BM,1978,Mountain,8000,3,4
+Outdoor Sports Supply,300000,Primary International,BM,1973,Mountain,9000,1,2
+Outdoor Aerobic Systems Company,300000,Reserve Security,BM,1981,Road,8000,1,3
+Self-Contained Cycle Parts Company,300000,United Security,BM,1976,Road,7000,3,4
+Metal Clearing House,300000,International Bank,BM,1984,Touring,9000,3,5
+Many Bikes Store,300000,Primary Bank & Reserve,BM,1979,Mountain,10000,3,6
+Largest Bike Store,300000,International Security,BM,1987,Road,7000,1,7
+Kickstands and Accessories Company,300000,Guardian Bank,BM,1982,Touring,10000,2,8
+Instruments and Parts Company,300000,Primary International,BM,1990,Touring,8000,3,9
+Neighborhood Bicycle Storehouse,800000,Reserve Security,BM,1985,Touring,17000,3,10
+Gear-Shift Bikes Limited,800000,United Security,BM,1993,Road,21000,1,11
+Frugal Bike Shop,800000,International Bank,BM,1988,Mountain,21000,2,12
+Family Entertainment Center,3000000,Guardian Bank,OS,1980,Touring,75000,4,89
+Go-cart and Bike Specialists,3000000,International Security,OS,1972,Mountain,78000,4,90
+Trailblazing Sports,3000000,Primary Bank & Reserve,OS,1977,Mountain,78000,3,91
+Racing Partners,3000000,International Bank,OS,1987,Mountain,79000,4,92
+Perfect Toys,3000000,United Security,OS,1974,Touring,76000,2,93
+Exhibition Showroom,3000000,Reserve Security,OS,1974,Mountain,77000,2,94
+Authorized Bike Sales and Rental,3000000,Primary International,OS,1980,Touring,75000,3,95
+Two-Seater Bikes,3000000,Guardian Bank,OS,1986,Touring,80000,2,96
+More Bikes!,3000000,Primary Bank & Reserve,OS,1992,Road,79000,3,97
+Unified Sports Company,3000000,International Bank,OS,1998,Mountain,80000,4,98
+National Manufacturing,3000000,United Security,OS,1999,Road,80000,3,99
+Volume Bike Sellers,3000000,Reserve Security,OS,1999,Mountain,78000,4,100
+Wheelsets Storehouse,3000000,Primary International,OS,1979,Road,73000,2,66
+Town Industries,1500000,Reserve Security,OS,1974,Touring,38000,2,40
+Security Racks and Locks Wholesalers,1500000,Primary International,OS,1980,Mountain,41000,4,43
+Rapid Bikes,1500000,Guardian Bank,OS,1986,Mountain,40000,2,46
+Metro Sports Equipment,1500000,International Security,OS,1992,Mountain,41000,4,49
+Nearby Sporting Goods,3000000,Primary Bank & Reserve,OS,1998,Road,71000,4,52
+Front Sporting Goods,3000000,International Bank,OS,1999,Mountain,70000,2,55
+Elite Bikes,3000000,United Security,OS,1999,Road,69000,2,58
+Catalog Store,3000000,United Security,OS,1999,Mountain,69000,3,55
+Chic Department Stores,3000000,Reserve Security,OS,1999,Mountain,71000,4,58
+Eastside Department Store,3000000,Primary International,OS,1979,Road,70000,3,61
+Sports Sales and Rental,3000000,Guardian Bank,OS,1996,Mountain,72000,4,64
+Cycle Merchants,3000000,International Security,OS,1991,Road,75000,3,67
+Global Sports Outlet,3000000,Primary Bank & Reserve,OS,1993,Mountain,75000,4,70
+Exotic Bikes,3000000,International Bank,OS,1998,Road,75000,4,73
+Fitness Hotel,3000000,United Security,OS,1990,Road,75000,2,76
+Healthy Activity Store,3000000,Reserve Security,OS,1995,Mountain,74000,4,79
+Every Bike Shop,3000000,Primary International,OS,1987,Road,76000,2,80
+Grand Industries,3000000,Guardian Bank,OS,1992,Touring,77000,2,81
+Ideal Components,3000000,International Security,OS,1984,Touring,76000,3,82
+Larger Cycle Shop,3000000,Primary Bank & Reserve,OS,1989,Road,77000,4,83
+Leading Sales & Repair,3000000,International Bank,OS,1981,Road,75000,4,84
+Main Bicycle Services,3000000,United Security,OS,1986,Road,75000,3,85
+Metro Bike Mart,3000000,Reserve Security,OS,1978,Mountain,76000,3,86
+Tandem Sales and Service,1500000,International Bank,BS,1972,Road,38000,4,34
+Sensible Sports,1500000,United Security,BS,1978,Touring,37000,2,33
+Reliable Retail Center,1500000,Reserve Security,BS,1984,Road,35000,4,32
+Liquidation Sales,1500000,Primary International,BS,1990,Touring,37000,4,31
+Friendly Bike Shop,1500000,Guardian Bank,BS,1996,Road,39000,2,30
+Yellow Bicycle Company,1000000,International Security,BS,2001,Mountain,26000,4,29
+Sports Products Store,1000000,Primary Bank & Reserve,BS,1971,Road,26000,4,28
+Selected Distributors,1000000,International Bank,BS,1998,Mountain,27000,3,27
+Impervious Paint Company,800000,Primary Bank & Reserve,BS,1972,Mountain,18000,3,10
+Shipping Specialists,800000,International Bank,BS,1978,Road,20000,2,13
+Finer Sporting Goods,800000,United Security,BS,1984,Touring,18000,4,16
+Authentic Sales and Service,800000,Reserve Security,BS,1990,Mountain,20000,1,19
+Official Parts Shop,1000000,Primary International,BS,1996,Road,24000,4,22
+"Contoso, Ltd.",1000000,Guardian Bank,BS,2001,Road,24000,4,25
+Discount Tours,1000000,International Security,BS,1971,Road,28000,4,28
+Tire Exchange,1500000,Primary Bank & Reserve,BS,1998,Mountain,36000,4,31
+Racing Tours,1500000,International Bank,BS,1983,Mountain,36000,3,34
+Oils and Fluids Warehouse,1500000,United Security,BS,1995,Mountain,37000,3,37
+Finished Parts Shop,1500000,Reserve Security,BS,1995,Mountain,36000,3,40
+Consumer Equipment,1500000,Primary International,BS,1992,Road,37000,4,43
+Rally Master Company Inc,3000000,International Security,OS,1992,Touring,77000,2,97
+Professional Cyclists,3000000,Primary Bank & Reserve,OS,1998,Road,77000,3,98
+Sports Products Store,3000000,International Bank,OS,1999,Road,78000,3,99
+Exclusive Bicycle Mart,3000000,United Security,OS,1999,Road,77000,4,100
+City Manufacturing,3000000,Reserve Security,OS,1979,Mountain,75000,4,66
+Bike Dealers Association,1500000,United Security,OS,1974,Road,40000,3,40
+Pedal Systems Company,1500000,Reserve Security,OS,1980,Road,39000,4,43
+"Health Spa, Limited",1500000,Primary International,OS,1986,Road,40000,4,46
+Global Bike Retailers,1500000,Guardian Bank,OS,1992,Touring,40000,4,49
+Fashionable Department Stores,3000000,International Security,OS,1998,Mountain,68000,3,52
+Closeout Boutique,3000000,Primary Bank & Reserve,OS,1999,Mountain,70000,3,55
+Bicycle Merchandise Warehouse,3000000,International Bank,OS,1999,Road,69000,4,58
+Spoke Manufacturers,3000000,United Security,OS,1979,Road,74000,4,61
+Leather Seat Factory,3000000,Reserve Security,OS,1996,Mountain,72000,4,64
+Good Bicycle Store,3000000,Primary International,OS,1991,Road,71000,4,67
+Endurance Bikes,3000000,Guardian Bank,OS,1993,Road,75000,3,70
+Practical Bike Supply Company,1000000,International Security,BS,2001,Mountain,26000,3,25
+Some Discount Store,1000000,Guardian Bank,BS,1996,Mountain,27000,2,22
+Variety Cycling,800000,Primary International,BS,1990,Touring,21000,1,19
+Accessories Network,800000,Reserve Security,BS,1984,Touring,22000,2,16
+Remote Bicycle Specialists,800000,United Security,BS,1978,Road,19000,3,13
+Curbside Sporting Goods,800000,International Bank,BS,1972,Road,20000,3,10
+Friendly Neighborhood Bikes,1000000,United Security,BS,1998,Mountain,28000,4,27
+Guaranteed Sales and Service,1000000,International Bank,BS,1971,Road,28000,4,28
+Preferable Bikes,1000000,Primary Bank & Reserve,BS,2001,Touring,24000,4,29
+Recommended Bicycles,1500000,International Security,BS,1996,Road,35000,4,30
+Sunny Place Bikes,1500000,Guardian Bank,BS,1990,Road,39000,4,31
+Alpine Ski House,1500000,Primary International,BS,1984,Road,37000,2,32
+Cycles and Scooters,1500000,Reserve Security,BS,1978,Road,35000,4,33
+Small Bike Accessories Shop,1500000,United Security,BS,1972,Touring,37000,3,34
+List Price Catalog Company,1500000,International Bank,BS,1988,Touring,37000,3,35
+Seats and Saddles Company,1500000,Primary Bank & Reserve,BS,1976,Mountain,38000,4,36
+Village Tours,1500000,International Security,BS,1971,Mountain,40000,3,37
+All Cycle Shop,1000000,Primary International,BS,1998,Mountain,25000,3,27
+Tachometers and Accessories,1000000,Reserve Security,BS,1971,Mountain,25000,4,28
+Cycles Sales and Repair,1000000,United Security,BS,2001,Touring,26000,3,29
+Low Price Cycles,1500000,International Bank,BS,1996,Mountain,36000,4,30
+Metropolitan Manufacturing,1500000,Primary Bank & Reserve,BS,1990,Road,39000,4,31
+Orange Bicycle Company,1500000,International Security,BS,1984,Road,37000,4,32
+Riding Associates,1500000,Guardian Bank,BS,1978,Mountain,36000,4,33
+Essential Bike Works,1500000,Primary International,BS,1972,Road,39000,4,34
+Rural Mountain Bike Mart,1500000,Reserve Security,BS,1988,Road,39000,4,35
+City Cycling,1500000,United Security,BS,1976,Road,37000,2,36
+Engineered Bike Systems,1500000,International Bank,BS,1971,Touring,40000,4,37
+Professional Containers and Packaging Co.,1500000,International Security,BS,1997,Mountain,38000,4,46
+One Bike Company,1500000,Primary Bank & Reserve,BS,1989,Mountain,41000,3,49
+Hiatus Bike Tours,1500000,International Bank,BS,1994,Touring,40000,2,48
+Cycling Goods,1500000,United Security,BS,1986,Road,37000,4,47
+Cycle Clearance,1500000,Reserve Security,BS,1991,Touring,40000,2,46
+Black Bicycle Company,1500000,Primary International,BS,1983,Mountain,40000,4,45
+Transport Bikes,1500000,Guardian Bank,BS,1988,Touring,41000,3,44
+Sellers of Cycles,1500000,International Security,BS,1980,Road,37000,4,43
+Maintenance and Repair for Bicycles,1500000,Primary Bank & Reserve,BS,1985,Touring,41000,4,42
+Fitness Department Stores,1500000,International Bank,BS,1977,Touring,37000,3,41
+Famous Bike Shop,1500000,United Security,BS,1982,Mountain,37000,4,40
+Eastward Bike Accessories,1500000,Reserve Security,BS,1974,Touring,39000,3,39
+Strong Metal Manufacturing,1500000,Primary International,BS,1979,Road,36000,4,38
+Gift and Toy Store,1500000,Guardian Bank,BS,1971,Road,36000,4,37
+Major Sporting Goods,1500000,International Security,BS,1976,Road,40000,4,36
+Executive Discount Store,1500000,Primary Bank & Reserve,BS,1988,Road,39000,4,35
+Major Cycling,3000000,International Security,OS,1995,Road,77000,2,79
+Getaway Inn,3000000,Primary Bank & Reserve,OS,1987,Road,75000,4,80
+Downhill Bicycle Specialists,3000000,International Bank,OS,1992,Mountain,77000,2,81
+Bike Experts,3000000,United Security,OS,1984,Mountain,73000,4,82
+Extraordinary Bike Works,3000000,Reserve Security,OS,1989,Mountain,75000,2,83
+Valley Bicycle Distributors,3000000,Primary International,OS,1981,Road,76000,4,84
+Top Sports Supply,3000000,Guardian Bank,OS,1986,Mountain,78000,3,85
+Racing Sales and Service,3000000,International Security,OS,1978,Road,77000,3,86
+Metropolitan Bicycle Supply,3000000,Primary Bank & Reserve,OS,1983,Mountain,78000,4,87
+Honest Repair Service,3000000,International Bank,OS,1975,Touring,77000,3,88
+Designer Department Stores,3000000,United Security,OS,1980,Road,74000,3,89
+Wheel Gallery,3000000,Reserve Security,OS,1972,Road,79000,2,90
+Top Bike Market,3000000,International Bank,OS,1987,Touring,75000,3,80
+Region Bike Company,3000000,United Security,OS,1992,Road,75000,2,81
+Grown-up Bike Store,3000000,Reserve Security,OS,1984,Mountain,75000,3,82
+Bicycle Lines Distributors,3000000,Primary International,OS,1989,Mountain,77000,3,83
+Sparkling Paint and Finishes,3000000,Guardian Bank,OS,1981,Mountain,76000,2,84
+Racing Association,3000000,International Security,OS,1986,Road,76000,3,85
+Plastic Parts Company,3000000,Primary Bank & Reserve,OS,1978,Mountain,76000,4,86
+Gears and Parts Company,3000000,International Bank,OS,1983,Touring,74000,2,87
+Executive Gift Store,3000000,United Security,OS,1975,Mountain,76000,3,88
+Big Cycle Mall,3000000,Reserve Security,OS,1980,Touring,77000,4,89
+Budget Bike Company,800000,International Bank,BM,1997,Road,22000,1,18
+Eighth Bike Store,800000,Primary Bank & Reserve,BM,1975,Touring,21000,3,19
+Demand Distributors,1000000,International Security,BM,2000,Road,24000,4,20
+Immediate Repair Shop,800000,Guardian Bank,BM,2000,Mountain,22000,4,17
+Off-Price Bike Center,800000,Primary International,BM,1994,Touring,22000,4,14
+Red Bicycle Company,800000,Reserve Security,BM,1988,Mountain,18000,3,11
+Retirement Activities Association,300000,United Security,BM,1982,Road,11000,4,8
+Trendy Department Stores,300000,International Bank,BM,1976,Touring,9000,1,5
+Vintage Sport Boutique,300000,Primary Bank & Reserve,BM,1970,Touring,9000,1,2
+Travel Sports,800000,United Security,BM,1997,Mountain,18000,4,17
+West Side Mart,800000,International Bank,BM,1975,Touring,19000,3,18
+The Bike Outlet,800000,Primary Bank & Reserve,BM,2000,Touring,21000,2,19
+Tenth Bike Store,800000,International Bank,BM,1994,Road,23000,4,18
+Valuable Bike Parts Company,800000,Primary Bank & Reserve,BM,1988,Mountain,20000,2,16
+Fun Times Club,800000,International Security,BM,1982,Road,22000,3,14
+Chain and Chain Tool Distributions,800000,Guardian Bank,BM,1976,Road,20000,3,12
+Mobile Outlet,800000,Primary International,BM,1970,Road,17000,2,10
+Regional Cycle Shop,300000,Reserve Security,BM,1975,Road,10000,2,8
+Rural Bicycle Supply,300000,United Security,BM,1970,Mountain,10000,4,6
+Wingtip Toys,800000,International Bank,BM,1999,Mountain,20000,3,15
+The Cycle Store,800000,Primary Bank & Reserve,BM,1994,Mountain,22000,3,16
+Educational Services,800000,International Security,BM,1987,Touring,19000,2,17
+Active Life Toys,800000,Guardian Bank,BM,1997,Road,20000,4,18
+Simple Bike Parts,800000,Primary International,BM,1975,Road,21000,4,19
+Timely Shipping Service,1000000,Reserve Security,BM,2000,Mountain,24000,2,20
+A Cycle Shop,800000,United Security,BM,2000,Touring,22000,3,17
+Bike Products and Accessories,800000,International Bank,BM,1994,Mountain,19000,1,14
+Fitness Toys,800000,Primary Bank & Reserve,BM,1988,Touring,21000,2,11
+Quick Parts and Service,300000,International Security,BM,1984,Touring,7000,4,5
+Reliable Brake Systems,300000,Guardian Bank,BM,1979,Mountain,7000,3,6
+Thrifty Parts and Sales,300000,Primary International,BM,1987,Road,8000,2,7
+A Typical Bike Shop,300000,Reserve Security,BM,1982,Road,8000,1,8
+Active Transport Inc.,300000,United Security,BM,1990,Road,8000,1,9
+Cycle Parts and Accessories,800000,International Bank,BM,1985,Touring,20000,3,10
+Fasteners & Bolts Outlet,800000,Primary Bank & Reserve,BM,1993,Touring,18000,4,11
+Functional Store North,800000,International Security,BM,1988,Mountain,19000,3,12
+Quantity Discounts,800000,Guardian Bank,BM,1996,Road,19000,3,13
+Swift Cycles,800000,Primary International,BM,1991,Road,22000,3,14
+Classic Cycle Store,800000,Reserve Security,BM,1999,Mountain,22000,2,15
+Helpful Sales and Repair Service ,800000,United Security,BM,1994,Touring,19000,4,16
+Large Bike Shop,800000,International Bank,BM,1987,Mountain,19000,4,17
+Recreation Supplies,800000,Primary Bank & Reserve,BM,1997,Mountain,22000,3,18
+Wire Baskets and Parts,800000,International Security,BM,1975,Road,19000,4,19
+Ultimate Bicycle Company,3000000,International Security,OS,1974,Mountain,78000,2,94
+Sports Store,3000000,Primary Bank & Reserve,OS,1980,Mountain,76000,3,95
+Metropolitan Equipment,3000000,International Bank,OS,1986,Road,78000,2,96
+Extended Tours,3000000,United Security,OS,1992,Road,78000,4,97
+Convenient Sales and Service,3000000,Reserve Security,OS,1998,Road,77000,4,98
+Solid Bike Parts,3000000,Primary International,OS,1999,Road,77000,4,99
+Permanent Finish Products,3000000,Guardian Bank,OS,1999,Mountain,79000,4,100
+Mercantile Outlet,3000000,International Security,OS,1979,Mountain,71000,4,66
+Links Works,1500000,Guardian Bank,OS,1974,Mountain,39000,2,40
+Exhilarating Cycles,1500000,International Security,OS,1980,Road,40000,3,43
+Exercise Center,800000,Guardian Bank,BM,1975,Mountain,23000,2,19
+Great Bicycle Supply,1000000,Primary International,BM,2000,Mountain,27000,4,20
+Mail-Order Outlet,800000,Reserve Security,BM,2000,Road,18000,4,17
+Nearby Cycle Shop,800000,United Security,BM,1994,Mountain,20000,2,14
+Recreation Toy Store,800000,International Bank,BM,1988,Mountain,17000,3,11
+Retreat Inn,300000,Primary Bank & Reserve,BM,1982,Road,7000,4,8
+Technical Parts Manufacturing,300000,International Security,BM,1976,Touring,7000,4,5
+Totes & Baskets Company,300000,Guardian Bank,BM,1970,Road,6000,4,2
+World of Bikes,800000,Primary Bank & Reserve,BM,1997,Mountain,19000,4,17
+A Bicycle Association,800000,International Security,BM,1975,Touring,19000,2,18

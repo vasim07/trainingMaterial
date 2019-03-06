@@ -1,0 +1,11 @@
+TerritoryID,Name,CountryRegionCode,Group,SalesYTD,SalesLastYear
+1,Northwest,US,North America,"7,887,186.79","3,298,694.49"
+2,Northeast,US,North America,"2,402,176.85","3,607,148.94"
+3,Central,US,North America,"3,072,175.12","3,205,014.08"
+4,Southwest,US,North America,"10,510,853.87","5,366,575.71"
+5,Southeast,US,North America,"2,538,667.25","3,925,071.43"
+6,Canada,CA,North America,"6,771,829.14","5,693,988.86"
+7,France,FR,Europe,"4,772,398.31","2,396,539.76"
+8,Germany,DE,Europe,"3,805,202.35","1,307,949.79"
+9,Australia,AU,Pacific,"5,977,814.92","2,278,548.98"
+10,United Kingdom,GB,Europe,"5,012,905.37","1,635,823.40"
